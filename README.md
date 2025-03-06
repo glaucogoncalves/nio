@@ -26,3 +26,8 @@ Repository of the course Nature Inspired Optimization
 |5|**Otimização multiobjetivo**|
 |5.1|[Conceitos e soluções monoobjetivo](lectures/05_01_Otimização_Multiobjetivo.ipynb)|
 |5.2|[NSGA-II](lectures/05_02_NSGA_II.ipynb)|
+
+## Grades
+
+* Assignments (50%)
+* Paper (50%)

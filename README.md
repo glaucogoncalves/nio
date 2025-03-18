@@ -15,7 +15,7 @@ Your frequency score will be calculated based on attendance at lectures and comp
 Each student's assessment will be based on a holistic assessment across several activities, including: labs, tests, selected exercises and a final paper.
 
 * Assinments (50%): activities, practical exercises and others.
-* Paper (50%): a paper to be developed.
+* Final Paper (50%): a paper to be developed.
 
 ## Bibliography
 
@@ -53,7 +53,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |4.4|[Particle Swarm](lectures/IABIO_METAAula%204pdf.pdf) [Colab](https://colab.research.google.com/drive/1oGMCPZ76K0sb39scKcWO77tdJOLzPXMB?usp=sharing)|
 |4.4|[Flower Polination](lectures/IABIO_METAAula%205pdf.pdf)|
 |5|**Multiobjective Optimization**|
-|5.1|[Conceitos e soluções monoobjetivo](lectures/05_01_Otimização_Multiobjetivo.ipynb)|
+|5.1|[Concepts and monoobjective approaching](lectures/05_01_Otimização_Multiobjetivo.ipynb)|
 |5.2|[NSGA-II](lectures/05_02_NSGA_II.ipynb)|
 
 ## Assignments
@@ -66,6 +66,10 @@ Each student's assessment will be based on a holistic assessment across several 
 |A04|Integer Programming Exercise|
 |A05|[Levy Flights](assignments/A05.md)|
 |A06|[Simulated Annealing](assignments/A06.md)|
+
+## Final Paper
+
+[Instructions here](assignments/FinalPaper.md)
 
 ## Links
 

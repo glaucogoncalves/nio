@@ -47,7 +47,11 @@ Each student's assessment will be based on a holistic assessment across several 
 |3|**Classical Strategies for Optimization**|
 |3.1|[Busca gananciosa, força bruta, programação dinâmica](lectures/03_01_Estratégias_Heurísticas.ipynb)|
 |4|**Estratégias de solução inspiradas na natureza**|
-|4.1|Recozimento simulado, polinização de flores, enxame de partículas|
+|4.1|[Introduction to Metaheuristics](lectures/IABIO_METAAula%201.pdf)|
+|4.2|[Random Walks and Levy Flights](lectures/IABIO_METAAula%202versao2.pdf)|
+|4.3|[Simulated Annealing](lectures/IABIO_METAAula3versao2.pdf)|
+|4.4|[Particle Swarm](lectures/IABIO_METAAula%204pdf.pdf) [Colab](https://colab.research.google.com/drive/1oGMCPZ76K0sb39scKcWO77tdJOLzPXMB?usp=sharing)|
+|4.4|[Flower Polination](lectures/IABIO_METAAula%205pdf.pdf)|
 |5|**Otimização multiobjetivo**|
 |5.1|[Conceitos e soluções monoobjetivo](lectures/05_01_Otimização_Multiobjetivo.ipynb)|
 |5.2|[NSGA-II](lectures/05_02_NSGA_II.ipynb)|
@@ -60,8 +64,8 @@ Each student's assessment will be based on a holistic assessment across several 
 |A02|[Linear Programming Exercise](assignments/A02.ipynb)|
 |A03|[Paper Reading](assignments/A03.md)|
 |A04|Integer Programming Exercise|
-|A05|Levy Flights|
-|A06|Simulated Annealing|
+|A05|[Levy Flights](assignments/A05.md)|
+|A06|[Simulated Annealing](assignments/A06.md)|
 
 ## Links
 

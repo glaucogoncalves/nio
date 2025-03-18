@@ -1,21 +1,21 @@
 # Nature-Inspired Optimization
 
 Repository of the course Nature Inspired Optimization from the [Electrical Engineering Graduate Program](https://www.ppgee.propesp.ufpa.br/index.php/en/) at [Federal University of Pará](http://www.ufpa.br).
- 
+
 ## Course Goal
 
 The goal of this course is to stimulate learning of concepts associated with optimization, specifically for large-scale problems, with a focus on developing modeling and solution skills through classical and nature-inspired strategies for continuous or integer variables, linear and nonlinear functions, single and multi-objective problems with or without restrictions.
 
 The theoretical content and practical demonstrations will be taught through **synchronous face-to-face meetings**. As support, students will also be directed to videos and short texts selected from a careful selection of different sources.
 
-## Procedimentos didáticos:
+## Grading
 
 Your frequency score will be calculated based on attendance at lectures and completion of activities.
 
 Each student's assessment will be based on a holistic assessment across several activities, including: labs, tests, selected exercises and a final paper.
 
-* 1st assessment (50%): activities, practical exercises and others.
-* 2nd assessment (50%): a paper to be developed.
+* Assinments (50%): activities, practical exercises and others.
+* Paper (50%): a paper to be developed.
 
 ## Bibliography
 
@@ -51,11 +51,6 @@ Each student's assessment will be based on a holistic assessment across several 
 |5|**Otimização multiobjetivo**|
 |5.1|[Conceitos e soluções monoobjetivo](lectures/05_01_Otimização_Multiobjetivo.ipynb)|
 |5.2|[NSGA-II](lectures/05_02_NSGA_II.ipynb)|
-
-## Grades
-
-* Assignments (50%)
-* Paper (50%)
 
 ## Assignments
 

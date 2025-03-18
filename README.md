@@ -62,3 +62,9 @@ Each student's assessment will be based on a holistic assessment across several 
 |A04|Integer Programming Exercise|
 |A05|Levy Flights|
 |A06|Simulated Annealing|
+
+## Links
+
+* About BrownianMotion: https://scipy-cookbook.readthedocs.io/items/BrownianMotion.html
+* Nature-Inspired Methods https://github.com/Valdecy/pyMetaheuristic 
+* MOO Methods https://github.com/anyoptimization/pymoo

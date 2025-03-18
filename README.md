@@ -1,6 +1,32 @@
 # Nature-Inspired Optimization
 
-Repository of the course Nature Inspired Optimization
+Repository of the course Nature Inspired Optimization from the [Electrical Engineering Graduate Program](https://www.ppgee.propesp.ufpa.br/index.php/en/) at [Federal University of Pará](http://www.ufpa.br).
+ 
+## Course Goal
+
+The goal of this course is to stimulate learning of concepts associated with optimization, specifically for large-scale problems, with a focus on developing modeling and solution skills through classical and nature-inspired strategies for continuous or integer variables, linear and nonlinear functions, single and multi-objective problems with or without restrictions.
+
+The theoretical content and practical demonstrations will be taught through **synchronous face-to-face meetings**. As support, students will also be directed to videos and short texts selected from a careful selection of different sources.
+
+## Procedimentos didáticos:
+
+Your frequency score will be calculated based on attendance at lectures and completion of activities.
+
+Each student's assessment will be based on a holistic assessment across several activities, including: labs, tests, selected exercises and a final paper.
+
+* 1st assessment (50%): activities, practical exercises and others.
+* 2nd assessment (50%): a paper to be developed.
+
+## Bibliography
+
+1. FOGEL, D. B.; MICHALEWICZ, Z. How to Solve It: Modern Heuristics. 2nd Edition. 2013.
+2. SARKER, Ruhul Amin; NEWTON, Charles S. Optimization modelling: a practical approach. CRC press, 2007.
+3. YANG, Xin-She. Nature-inspired optimization algorithms. Academic Press, 2020.
+4. YANG, Xin-She. Optimization techniques and applications with examples. John Wiley & Sons, 2018.
+5. YANG, Xin-She. Nature-inspired metaheuristic algorithms. Luniver press, 2010.
+6. VAZIRANI, Vijay V. Approximation algorithms. Vol. 1. Berlin: springer, 2001.
+7. JUNGNICKEL, Dieter. Graphs, networks and algorithms. Berlin: Springer, 2005.
+8. FLOREANO, Dario; MATTIUSSI, Claudio. Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies. MIT Press, 2023.
 
 ## Lectures
 
@@ -30,9 +56,6 @@ Repository of the course Nature Inspired Optimization
 
 * Assignments (50%)
 * Paper (50%)
-
-About BrownianMotion
-https://scipy-cookbook.readthedocs.io/items/BrownianMotion.html
 
 ## Assignments
 

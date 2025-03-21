@@ -14,7 +14,7 @@ Your frequency score will be calculated based on attendance at lectures and comp
 
 Each student's assessment will be based on a holistic assessment across several activities, including: labs, tests, selected exercises and a final paper.
 
-* Assinments (50%): activities, practical exercises and others.
+* Assingments (50%): activities, practical exercises and others.
 * Final Paper (50%): a paper to be developed.
 
 ## Bibliography

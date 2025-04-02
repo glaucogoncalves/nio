@@ -1,19 +1,19 @@
-# Projeto da disciplina IA Bio-inspirada e Otimização
+# Nature-inspired Optimization Course - Final Project
 
-Objetivo: 
+**Goal**
 
-Definir, modelar, classificar e solucionar um problema de otimização (mono ou multiobjetivo) aplicado à engenharia. 
+Define, model, classify, and solve an optimization problem (single or multi-objective) applied to engineering.
 
-Detalhamento:
+**Details**
 
-Para a escolha do problema considere as áreas de concentração e linhas de pesquisa do PPGEE. A definição do problema deve ser clara e concisa e explicar os principais elementos envolvidos no problema real. Se tiver dúvida sobre isso, consulte os professores da disciplina. 
+The final project of the discipline consists of the development of a theoretical-practical work. So, when choosing the problem, consider PPGEE's areas of concentration and research lines. The problem definition must be clear and concise and explain the main actual elements involved in the real problem. If you have any doubts about this, talk with the professor on the subject.
 
-O modelo deve mostrar a função objetivo, o domínio das variáveis de decisão e as restrições (se houver). A partir do modelo deve-se classificar o problema segundo as classes da programação matemática.
+The model must show the objective function, the domain of the decision variables and the constraints (if any). Based on the model, the problem must be classified according to the classes of mathematical programming.
 
-Para a solução deve-se escolher uma heurística clássica ou meta-heurística bio-inspirada. Descreva sua solução (algoritmo, representação da população, parâmetros etc) e apresente resultados da aplicação dela ao problema (gráfico de convergência, fronteira de Pareto etc).
+For the solution, a classical heuristic or nature-inspired meta-heuristic should be chosen. Describe your solution (algorithm, representation of the population, parameters, etc.) and present results of its application to the problem (convergence graph, Pareto frontier, and so on).
 
-O projeto deve ser realizado de forma individual ou em dupla.
+This activity should preferably be done in pairs.
 
-Entrega:
+**Delivery**
 
-Apresentação de 10 minutos no dia 27/06/2024 com 5 minutos para perguntas. A apresentação deve endereçar os tópicos explicitados no detalhamento.
+The delivery will be made in the form of a scientific paper presenting the problem and showing the results of the practical evaluation. The paper must follow the [IEEE Journal Paper Template](https://www.overleaf.com/latex/templates/ieee-journal-paper-template/jbbbdkztwxrd).

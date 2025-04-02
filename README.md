@@ -36,7 +36,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |1|**Introduction to Problem Optimization and Modeling**|
 |1.1|[Introduction to Modeling](lectures/01_01_Modelos.ipynb)|
 |1.2|[Complexity Theory](lectures/01_02_Teoria_da_Complexidade.ipynb)|
-|1.3|[Introduction to Optimization](lectures/01_03_Introdução_à_Otimização.ipynb)|
+|1.3|[Introduction to Optimization](lectures/01_03_optimization_intro.ipynb)|
 |2|**Mono-Objective Optimization Modeling**|
 |2.1|[Linear Programming](lectures/02_01_PL.ipynb)|
 |2.2|[Non-linear Programming)](https://docs.google.com/presentation/d/1v4F1mxYekwEJOA48Gvd-uQYeqfpl29cL9FmF6PacZvw/edit?usp=sharing)|
@@ -45,7 +45,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |2.5|[Optimization Problems on Graphs](lectures/02_06_Problemas_em_grafos.ipynb)|
 |2.6|[Facility Location](lectures/02_07_Localização_de_Facilidades.ipynb)|
 |3|**Classical Strategies for Optimization**|
-|3.1|[Busca gananciosa, força bruta, programação dinâmica](lectures/03_01_Estratégias_Heurísticas.ipynb)|
+|3.1|[Greedy Search, Exhaustive search, Dynamic Programming](lectures/03_01_Estratégias_Heurísticas.ipynb)|
 |4|**Nature-inspired Solution Strategies**|
 |4.1|[Introduction to Metaheuristics](lectures/IABIO_METAAula%201.pdf)|
 |4.2|[Random Walks and Levy Flights](lectures/IABIO_METAAula%202versao2.pdf)|
@@ -74,5 +74,6 @@ Each student's assessment will be based on a holistic assessment across several 
 ## Links
 
 * About BrownianMotion: https://scipy-cookbook.readthedocs.io/items/BrownianMotion.html
+* Mathematical Programming in Python: https://www.pyomo.org/
 * Nature-Inspired Methods https://github.com/Valdecy/pyMetaheuristic 
 * MOO Methods https://github.com/anyoptimization/pymoo

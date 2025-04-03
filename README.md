@@ -38,8 +38,8 @@ Each student's assessment will be based on a holistic assessment across several 
 |1.2|[Complexity Theory](lectures/01_02_Teoria_da_Complexidade.ipynb)|
 |1.3|[Introduction to Optimization](lectures/01_03_optimization_intro.ipynb)|
 |2|**Mono-Objective Optimization Modeling**|
-|2.1|[Linear Programming](lectures/02_01_PL.ipynb)|
-|2.2|[Non-linear Programming)](https://docs.google.com/presentation/d/1v4F1mxYekwEJOA48Gvd-uQYeqfpl29cL9FmF6PacZvw/edit?usp=sharing)|
+|2.1|[Linear Programming](lectures/02_01_LP.ipynb)|
+|2.2|[Non-linear Programming](https://docs.google.com/presentation/d/1v4F1mxYekwEJOA48Gvd-uQYeqfpl29cL9FmF6PacZvw/edit?usp=sharing)|
 |2.3|[Non-Linear Programming Examples](lectures/02_03_Programação_Não_Linear.ipynb)|
 |2.4|[Integer Linear Programming](lectures/02_04_Programação_Inteira.ipynb)|
 |2.5|[Optimization Problems on Graphs](lectures/02_06_Problemas_em_grafos.ipynb)|

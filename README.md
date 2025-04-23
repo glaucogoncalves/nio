@@ -40,7 +40,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |2|**Mono-Objective Optimization Modeling**|
 |2.1|[Linear Programming](lectures/02_01_LP.ipynb)|
 |2.2|[Non-linear Programming](lectures/02_02_NLP.ipynb)|
-|2.3|[Integer Linear Programming](lectures/02_03_Programação_Inteira.ipynb)|
+|2.3|[Integer Linear Programming](lectures/02_03_ILP.ipynb)|
 |2.4|[Optimization Problems on Graphs](lectures/02_04_Problemas_em_grafos.ipynb)|
 |2.5|[Facility Location](lectures/02_05_Localização_de_Facilidades.ipynb)|
 |3|**Classical Strategies for Optimization**|

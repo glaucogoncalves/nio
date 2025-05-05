@@ -43,7 +43,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |2.3|[Integer Linear Programming](lectures/02_03_ILP.ipynb)|
 |2.4|[Optimization Problems on Graphs](lectures/02_04_graph_optimization.ipynb)|
 |3|**Classical Strategies for Optimization**|
-|3.1|[Greedy Search, Exhaustive search, Dynamic Programming](lectures/03_01_Estratégias_Heurísticas.ipynb)|
+|3.1|[Greedy Search, Exhaustive search, Dynamic Programming](lectures/03_01_Heuristics.ipynb)|
 |4|**Nature-inspired Solution Strategies**|
 |4.1|[Introduction to Metaheuristics](lectures/IABIO_METAAula%201.pdf)|
 |4.2|[Random Walks and Levy Flights](lectures/IABIO_METAAula%202versao2.pdf)|

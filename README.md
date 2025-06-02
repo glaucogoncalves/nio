@@ -46,7 +46,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |3.1|[Greedy Search, Exhaustive search, Dynamic Programming](lectures/03_01_Heuristics.ipynb)|
 |4|**Nature-inspired Solution Strategies**|
 |4.1|[Introduction to Metaheuristics](lectures/04_01_intro_metaheuristics.ipynb)|
-|4.2|[Simulated Annealing](lectures/IABIO_METAAula3versao2.pdf)|
+|4.2|[Simulated Annealing](lectures/04_02_SA_GA.ipynb)|
 |4.3|[Particle Swarm](lectures/04_03_PSO.ipynb) [Colab](https://colab.research.google.com/drive/1oGMCPZ76K0sb39scKcWO77tdJOLzPXMB?usp=sharing)|
 |4.4|[Flower Polination](lectures/IABIO_METAAula%205pdf.pdf)|
 |5|**Multiobjective Optimization**|

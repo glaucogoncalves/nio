@@ -6,7 +6,7 @@ Repository of the course Nature Inspired Optimization from the [Electrical Engin
 
 The goal of this course is to stimulate learning of concepts associated with optimization, specifically for large-scale problems, with a focus on developing modeling and solution skills through classical and nature-inspired strategies for continuous or integer variables, linear and nonlinear functions, single and multi-objective problems with or without restrictions.
 
-The theoretical content and practical demonstrations will be taught through **synchronous face-to-face meetings**. As support, students will also be directed to videos and short texts selected from a careful selection of different sources.
+The theoretical content and practical demonstrations will be taught through **synchronous face-to-face meetings**. As support, students will also be directed to videos and short texts carefully selected from different sources.
 
 ## Grading
 

@@ -57,12 +57,12 @@ Each student's assessment will be based on a holistic assessment across several 
 
 |**ID**|**Topic**|
 |---|---|
-|A01|[Prep Test](assignments/A01.pdf)|
-|A02|[Linear Programming Exercise](assignments/A02.ipynb)|
-|A03|[Integer Programming Exercise](assignments/A03.ipynb)|
-|A04|[Paper Reading](assignments/A04.md)|
-|A05|[Levy Flights](assignments/A05.md)|
-|A06|[Simulated Annealing](assignments/A06.md)|
+|A01|[Prep Test]|
+|A02|[Linear Programming Exercise]|
+|A03|[Integer Programming Exercise]|
+|A04|[Paper Reading]|
+|A05|[Levy Flights]|
+|A06|[Simulated Annealing]|
 
 ## Final Paper
 

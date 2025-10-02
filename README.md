@@ -39,9 +39,9 @@ Each student's assessment will be based on a holistic assessment across several 
 |1.3|[Introduction to Optimization](lectures/01_03_optimization_intro.ipynb)|
 |2|**Mono-Objective Optimization Modeling**|
 |2.1|[Linear Programming](lectures/02_01_LP.ipynb)|
-|2.2|[Non-linear Programming](lectures/02_02_NLP.ipynb)|
-|2.3|[Integer Linear Programming](lectures/02_03_ILP.ipynb)|
-|2.4|[Optimization Problems on Graphs](lectures/02_04_graph_optimization.ipynb)|
+|2.2|[Integer Linear Programming](lectures/02_02_ILP.ipynb)|
+|2.3|[Optimization Problems on Graphs](lectures/02_03_graph_optimization.ipynb)|
+|2.4|[Non-linear Programming](lectures/02_04_NLP.ipynb)|
 |3|**Classical Strategies for Optimization**|
 |3.1|[Greedy Search, Exhaustive search, Dynamic Programming](lectures/03_01_Heuristics.ipynb)|
 |4|**Nature-inspired Solution Strategies**|
@@ -58,7 +58,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |**ID**|**Topic**|
 |---|---|
 |A01|[Linear Programming Exercise](assignments/lp-exec-2.ipynb)|
-|A02|[Integer Programming Exercise]|
+|A02|[Integer Programming Exercise](assignments/ilp-exec-2.ipynb)|
 |A03|[Paper Reading]|
 |A04|[Levy Flights]|
 |A05|[Simulated Annealing]|

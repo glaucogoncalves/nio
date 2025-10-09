@@ -59,7 +59,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |---|---|
 |A01|[Linear Programming Exercise](assignments/lp-exec-2.ipynb)|
 |A02|[Integer Programming Exercise](assignments/ilp-exec-2.ipynb)|
-|A03|[Paper Reading]|
+|A03|[Paper Reading](assignments/paper-reading.md)|
 |A04|[Levy Flights]|
 |A05|[Simulated Annealing]|
 

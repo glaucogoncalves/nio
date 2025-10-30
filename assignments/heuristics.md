@@ -12,7 +12,7 @@ The table below lists each pair of students, the chosen problem, and the chosen 
 |---|---|---|
 | 1 | Greedy | Klayton e Ayrton |
 | 1 | Exhaustive Search | Alfa and Anderson |
-| 1 | Divide and Conquer | xx and yy |
+| 1 | Divide and Conquer | Helder |
 | 1 | Dynamic Programming | Luiz Paulo and Danilo |
 | 2 | Greedy | Claudio and Mozart |
 | 2 | Exhaustive Search | Andrey batista e Reyso Cunha |

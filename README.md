@@ -61,7 +61,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |A02|[Integer Programming Exercise](assignments/ilp-exec-2.ipynb)|
 |A03|[Paper Reading](assignments/paper-reading.md)|
 |A04|[Heuristics Exercise](assignments/heuristics.md)|
-|A05|[Levy Flights]|
+|A05|[Levy Flights](assignments/levy-flights.md)|
 |A06|[Simulated Annealing]|
 
 ## Final Paper

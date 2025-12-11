@@ -47,7 +47,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |4|**Nature-inspired Solution Strategies**|
 |4.1|[Introduction to Metaheuristics](lectures/04_01_intro_metaheuristics.ipynb)|
 |4.2|[Simulated Annealing](lectures/04_02_SA_GA.ipynb)|
-|4.3|[Particle Swarm](lectures/04_03_PSO.ipynb) [Colab](https://colab.research.google.com/drive/1oGMCPZ76K0sb39scKcWO77tdJOLzPXMB?usp=sharing)|
+|4.3|[Particle Swarm](lectures/04_03_PSO.ipynb)|
 |4.4|[Flower Polination](lectures/IABIO_METAAula%205pdf.pdf)|
 |5|**Multiobjective Optimization**|
 |5.1|[Concepts and monoobjective approaching](lectures/05_01_Otimização_Multiobjetivo.ipynb)|
@@ -62,7 +62,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |A03|[Paper Reading](assignments/paper-reading.md)|
 |A04|[Heuristics Exercise](assignments/heuristics.md)|
 |A05|[Levy Flights](assignments/levy-flights.md)|
-|A06|[Simulated Annealing]|
+|A06|[Simulated Annealing](assignments/metaheuristics.md)|
 
 ## Final Paper
 

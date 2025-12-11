@@ -62,7 +62,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |A03|[Paper Reading](assignments/paper-reading.md)|
 |A04|[Heuristics Exercise](assignments/heuristics.md)|
 |A05|[Levy Flights](assignments/levy-flights.md)|
-|A06|[Simulated Annealing](assignments/metaheuristics.md)|
+|A06|[Metaheuristics Exercise](assignments/metaheuristics.md)|
 
 ## Final Paper
 

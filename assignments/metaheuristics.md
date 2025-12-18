@@ -10,15 +10,15 @@ The table below lists each pair of students, the chosen problem, and the chosen 
 
 | Problem | Metaheuristic | Students |
 |---|---|---|
-| 1 |  | Klayton e Ayrton |
-| 1 |  | Alfa and Anderson |
-| 1 |  | Helder |
-| 1 |  | Luiz Paulo and Danilo |
-| 2 |  | Claudio and Mozart |
-| 2 |  | Andrey batista e Reyso Cunha |
-| 2 |  | Renato e Armando |
+| 1 | FPA | Klayton e Ayrton |
+| 1 | PSO | Alfa and Anderson |
+| 1 | GA | Helder |
+| 1 | SA | Luiz Paulo and Danilo |
+| 2 | PSO | Claudio and Mozart |
+| 2 | FPA | Andrey batista e Reyso Cunha |
+| 2 | GA | Renato e Armando |
 | 2 |  | xx and yy |
-| 3 |  | Tobias Souza and Rhamses Porto |
-| 3 |  | André Jordan and Breno Lucas |
-| 3 |  | Pedro and Rayldo |
-| 3 |  | Amaral and Delvek |
+| 3 | GA | Tobias Souza and Rhamses Porto |
+| 3 | PSO | André Jordan and Breno Lucas |
+| 3 | SA | Pedro and Rayldo |
+| 3 | FPA | Amaral and Delvek |

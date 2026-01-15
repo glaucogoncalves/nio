@@ -50,7 +50,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |4.3|[Particle Swarm](lectures/04_03_PSO.ipynb)|
 |4.4|[Flower Polination](lectures/04_04_FPA.ipynb)|
 |5|**Multiobjective Optimization**|
-|5.1|[Concepts and monoobjective approaching](lectures/05_01_Otimização_Multiobjetivo.ipynb)|
+|5.1|[Concepts and monoobjective approaching](lectures/05_01_Otimizacao_Multiobjetivo.ipynb)|
 |5.2|[NSGA-II](lectures/05_02_NSGA_II.ipynb)|
 
 ## Assignments

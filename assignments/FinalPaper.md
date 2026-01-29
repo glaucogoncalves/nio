@@ -10,7 +10,7 @@ The final project of the discipline consists of the development of a theoretical
 
 The model must show the objective function, the domain of the decision variables and the constraints (if any). Based on the model, the problem must be classified according to the classes of mathematical programming.
 
-For the solution, a classical heuristic or nature-inspired meta-heuristic should be chosen. Describe your solution (algorithm, representation of the population, parameters, etc.) and present results of its application to the problem (convergence graph, Pareto frontier, and so on).
+For the solution, a classical method, heuristic, or nature-inspired meta-heuristic should be chosen. Describe your solution (algorithm, representation of the population, parameters, etc.) and present results of its application to the problem (convergence graph, Pareto frontier, and so on).
 
 This activity should preferably be done in pairs.
 

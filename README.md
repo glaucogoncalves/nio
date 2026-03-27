@@ -57,12 +57,13 @@ Each student's assessment will be based on a holistic assessment across several 
 
 |**ID**|**Topic**|
 |---|---|
-|A01|[Linear Programming Exercise](assignments/lp-exec-2.ipynb)|
-|A02|[Integer Programming Exercise](assignments/ilp-exec-2.ipynb)|
-|A03|[Paper Reading](assignments/paper-reading.md)|
-|A04|[Heuristics Exercise](assignments/heuristics.md)|
-|A05|[Levy Flights](assignments/levy-flights.md)|
-|A06|[Metaheuristics Exercise](assignments/metaheuristics.md)|
+|A01|[Prep Test](assignments/prep-test.pdf)|
+|A02|TBD|
+|A03|TBD|
+|A04|TBD|
+|A05|TBD|
+|A06|TBD|
+|A07|TBD|
 
 ## Final Paper
 

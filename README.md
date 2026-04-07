@@ -58,7 +58,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |**ID**|**Topic**|
 |---|---|
 |A01|[Prep Test](assignments/prep-test.pdf)|
-|A02|TBD|
+|A02|[Linear Programming Exercise](assignments/lp-exec-3.ipynb)|
 |A03|TBD|
 |A04|TBD|
 |A05|TBD|

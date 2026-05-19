@@ -61,7 +61,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |A02|[Linear Programming Exercise](assignments/lp-exec-3.ipynb)|
 |A03|[Integer Programming Exercise](assignments/ilp-exec-3.ipynb)|
 |A04|[Midterm Test](assignments/midterm-test.pdf)|
-|A05|TBD|
+|A05|[Paper Reading](assignments/paper-reading.md)|
 |A06|TBD|
 |A07|TBD|
 

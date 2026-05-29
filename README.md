@@ -62,7 +62,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |A03|[Integer Programming Exercise](assignments/ilp-exec-3.ipynb)|
 |A04|[Midterm Test](assignments/midterm-test.pdf)|
 |A05|[Paper Reading](assignments/paper-reading.md)|
-|A06|TBD|
+|A06|[Lévy Flights](assignments/levy-flights.md)|
 |A07|TBD|
 
 ## Final Paper

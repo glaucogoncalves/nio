@@ -63,7 +63,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |A04|[Midterm Test](assignments/midterm-test.pdf)|
 |A05|[Paper Reading](assignments/paper-reading.md)|
 |A06|[Lévy Flights](assignments/levy-flights.md)|
-|A07|TBD|
+|A07|[Find the error](assignments/error-competition.md)|
 
 ## Final Paper
 

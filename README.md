@@ -71,7 +71,8 @@ Each student's assessment will be based on a holistic assessment across several 
 ## Further Readings
 
 |**N**|**Readings**|
-|1|[Optimization Problems on Graphs](lectures/graph_optimization.ipynb)|
+|---|---|
+|1|[Optimization Problems on Graphs](lectures/further/graph_optimization.ipynb)|
 
 ## Links
 

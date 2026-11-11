@@ -34,7 +34,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |---|---|
 |0|Syllabus ([Short description](lectures/00_syllabus.pdf)) / [More in SIGAA](https://sigaa.ufpa.br/sigaa/verTelaLogin.do))|
 |1|**Introduction to Problem Optimization and Modeling**|
-|1.1|[Introduction to Modeling](lectures/01_01_Modelos.ipynb)|
+|1.1|[Introduction to Modeling](lectures/01_01_Models.ipynb)|
 |1.2|[Complexity Theory](lectures/01_02_complexity_theory.ipynb)|
 |1.3|[Introduction to Optimization](lectures/01_03_optimization_intro.ipynb)|
 |2|**Mono-Objective Optimization Modeling**|

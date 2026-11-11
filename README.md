@@ -40,8 +40,7 @@ Each student's assessment will be based on a holistic assessment across several 
 |2|**Mono-Objective Optimization Modeling**|
 |2.1|[Linear Programming](lectures/02_01_LP.ipynb)|
 |2.2|[Integer Linear Programming](lectures/02_02_ILP.ipynb)|
-|2.3|[Optimization Problems on Graphs](lectures/02_03_graph_optimization.ipynb)|
-|2.4|[Non-linear Programming](lectures/02_04_NLP.ipynb)|
+|2.3|[Non-linear Programming](lectures/02_03_NLP.ipynb)|
 |3|**Classical Strategies for Optimization**|
 |3.1|[Greedy Search, Exhaustive search, Dynamic Programming](lectures/03_01_Heuristics.ipynb)|
 |4|**Nature-inspired Solution Strategies**|
@@ -68,6 +67,11 @@ Each student's assessment will be based on a holistic assessment across several 
 ## Final Paper
 
 [Instructions here](assignments/FinalPaper.md)
+
+## Further Readings
+
+|**N**|**Readings**|
+|1|[Optimization Problems on Graphs](lectures/graph_optimization.ipynb)|
 
 ## Links
 
